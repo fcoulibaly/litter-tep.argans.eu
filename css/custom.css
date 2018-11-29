@@ -1,0 +1,10 @@
+/* Add here all your CSS customizations */
+
+.thumb-info .thumb-info-title {
+	bottom:  4%;
+	background: rgba(36, 27, 28, 0.7);
+	font-size: 12px;
+	text-transform: none;
+	font-weight: 600;
+	letter-spacing: 0px;
+}
